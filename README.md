@@ -1,5 +1,5 @@
 # MenheraChan
-一个WHMCS主题
+一个WHMCS主题，由sspanel的mod版本的主题修改而来。
 
 ## 适配版本
 * 编写环境 WHMCS 7.5.1
