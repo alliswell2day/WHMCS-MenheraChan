@@ -1,0 +1,9 @@
+# WHMCS Space Theme Configuration File
+
+name: "Menhera Yes"
+description: "The Menhera Theme for WHMCS Version 6.x & 7.x"
+author: "Zzm317"
+properties:
+  serverSidePagination: false # Defines client side will handle pagination
+config:
+    parent: Menhera
