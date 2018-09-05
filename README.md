@@ -1,2 +1,11 @@
-# WHMCS-MenheraChan
-A theme for WHMCS
+# MenheraChan
+一个WHMCS主题
+
+## 适配版本
+* 编写环境 WHMCS 7.5.1
+
+## 注意
+请注意！本主题不包含如下部分（懒得写，本身就不怎么用）
+* 域名部分
+* 信用卡部分
+* 联系人部分
